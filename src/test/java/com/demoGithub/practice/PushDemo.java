@@ -14,5 +14,6 @@ public class PushDemo {
 		 WebDriverManager.chromedriver().setup();
 		 driver=new ChromeDriver();
 		 System.out.println("successfully pushed to repository");
+		 System.out.println("sucess");
 	 }
 }
